@@ -12,42 +12,6 @@ if (TYPO3_MODE === 'BE') {
         'Classes/Backend/View/OtBootstrap3TtContentDrawItem.php:OtBootstrap3TtContentDrawItem';
 
     \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addUserTSConfig(
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-1.
-<<<<<<< HEAD
-        2.
-            3.
-=======
-<<<<<<< HEAD
-=======
->>>>>>> parent of 9422942... Revert "Revert "eee""
-<<<<<<< HEAD
-=======
->>>>>>> parent of 9422942... Revert "Revert "eee""
-=======
->>>>>>> parent of 9422942... Revert "Revert "eee""
-        'Classes/Backend/View/OtBootstrap3TtContentDrawItem.php:OtBootstrap3TtContentDrawItem';
-=======
 
->>>>>>> parent of 29aab9b... Revert "eee"
-=======
-
->>>>>>> parent of 29aab9b... Revert "eee"
-    );
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 9422942... Revert "Revert "eee""
-=======
->>>>>>> parent of 9422942... Revert "Revert "eee""
-=======
->>>>>>> parent of 9422942... Revert "Revert "eee""
-=======
->>>>>>> parent of 9422942... Revert "Revert "eee""
-=======
->>>>>>> parent of 75ae75e... 2.
 
 }
